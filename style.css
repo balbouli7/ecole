@@ -1,0 +1,44 @@
+body{
+    background-color: rgba(211, 211, 211, 0.301);
+     margin: 0;
+     border-bottom: 10px solid black;
+     font-family: Arial, Helvetica, sans-serif;
+}
+.welcome{
+    text-align: center;
+     background: linear-gradient( to right ,#468FE1,#4EDFC1);
+     height: 200px;
+     color: white;
+}
+img{
+    width: 75px; padding-top: 10px;
+}
+h1{
+    margin: 2px;
+}
+.math{
+    text-align: center;
+    background-color: white;
+    border-radius: 15px;
+    margin: 20px 10px;
+     padding: 5px;
+}
+.jean{
+    margin: 10px; 
+    background-color:rgba(211, 211, 211, 0.301) ;
+    height: 125px;
+    border-radius: 10px;
+    line-height: 15px;
+}
+h3{
+    color: #5B92E1; padding-top: 10px;
+}
+h4{
+    color: grey;
+}
+.marie{
+    margin: 20px 10px; 
+    background-color:rgba(211, 211, 211, 0.301) ;
+    height: 125px;
+    border-radius: 10px;
+}
